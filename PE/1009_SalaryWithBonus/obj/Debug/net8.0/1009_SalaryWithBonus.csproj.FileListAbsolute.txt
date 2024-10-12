@@ -1,0 +1,15 @@
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\bin\Debug\net8.0\1009_SalaryWithBonus.exe
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\bin\Debug\net8.0\1009_SalaryWithBonus.deps.json
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\bin\Debug\net8.0\1009_SalaryWithBonus.runtimeconfig.json
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\bin\Debug\net8.0\1009_SalaryWithBonus.dll
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\bin\Debug\net8.0\1009_SalaryWithBonus.pdb
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.AssemblyInfoInputs.cache
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.AssemblyInfo.cs
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.csproj.CoreCompileInputs.cache
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.sourcelink.json
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.dll
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\refint\1009_SalaryWithBonus.dll
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.pdb
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\1009_SalaryWithBonus.genruntimeconfig.cache
+c:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1009_SalaryWithBonus\obj\Debug\net8.0\ref\1009_SalaryWithBonus.dll

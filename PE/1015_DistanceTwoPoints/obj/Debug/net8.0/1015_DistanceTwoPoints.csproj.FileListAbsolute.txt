@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\bin\Debug\net8.0\1015_DistanceTwoPoints.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\bin\Debug\net8.0\1015_DistanceTwoPoints.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\bin\Debug\net8.0\1015_DistanceTwoPoints.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\bin\Debug\net8.0\1015_DistanceTwoPoints.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\bin\Debug\net8.0\1015_DistanceTwoPoints.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\refint\1015_DistanceTwoPoints.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\1015_DistanceTwoPoints.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1015_DistanceTwoPoints\obj\Debug\net8.0\ref\1015_DistanceTwoPoints.dll

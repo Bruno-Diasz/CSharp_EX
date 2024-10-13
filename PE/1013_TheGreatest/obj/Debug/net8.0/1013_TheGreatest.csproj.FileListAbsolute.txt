@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\bin\Debug\net8.0\1013_TheGreatest.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\bin\Debug\net8.0\1013_TheGreatest.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\bin\Debug\net8.0\1013_TheGreatest.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\bin\Debug\net8.0\1013_TheGreatest.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\bin\Debug\net8.0\1013_TheGreatest.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\refint\1013_TheGreatest.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\1013_TheGreatest.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1013_TheGreatest\obj\Debug\net8.0\ref\1013_TheGreatest.dll

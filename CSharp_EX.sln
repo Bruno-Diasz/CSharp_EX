@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1014_Consumption", "PE\1014
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1015_DistanceTwoPoints", "PE\1015_DistanceTwoPoints\1015_DistanceTwoPoints.csproj", "{3C5571CE-CE00-40FB-871F-A9ED6440CBFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1018_Banknotes", "PE\1018_Banknotes\1018_Banknotes.csproj", "{437994F7-15DD-4A5F-BA3D-77D9974A8AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3C5571CE-CE00-40FB-871F-A9ED6440CBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5571CE-CE00-40FB-871F-A9ED6440CBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5571CE-CE00-40FB-871F-A9ED6440CBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437994F7-15DD-4A5F-BA3D-77D9974A8AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437994F7-15DD-4A5F-BA3D-77D9974A8AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437994F7-15DD-4A5F-BA3D-77D9974A8AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437994F7-15DD-4A5F-BA3D-77D9974A8AFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{1388B86F-0856-462E-824B-19A38501B1B7} = {6250F009-202D-4DE6-8D84-2246263459CA}
 		{4F25C633-A8D6-40BC-BC12-08AB7C2478BC} = {6250F009-202D-4DE6-8D84-2246263459CA}
 		{3C5571CE-CE00-40FB-871F-A9ED6440CBFC} = {6250F009-202D-4DE6-8D84-2246263459CA}
+		{437994F7-15DD-4A5F-BA3D-77D9974A8AFC} = {6250F009-202D-4DE6-8D84-2246263459CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0EC0E7EC-66DA-43AA-BC3D-8AFAF40EFCA4}

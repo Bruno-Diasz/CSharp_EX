@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\bin\Debug\net8.0\1014_Consumption.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\bin\Debug\net8.0\1014_Consumption.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\bin\Debug\net8.0\1014_Consumption.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\bin\Debug\net8.0\1014_Consumption.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\bin\Debug\net8.0\1014_Consumption.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\refint\1014_Consumption.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\1014_Consumption.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1014_Consumption\obj\Debug\net8.0\ref\1014_Consumption.dll

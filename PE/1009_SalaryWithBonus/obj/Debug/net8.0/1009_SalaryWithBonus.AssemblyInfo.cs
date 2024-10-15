@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1009_SalaryWithBonus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9ee26ac2c2e0262f06f293fc31318f3aceaa579")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a5b5e2da3e96523d135893e877d7b0d4e01e691")]
 [assembly: System.Reflection.AssemblyProductAttribute("1009_SalaryWithBonus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1009_SalaryWithBonus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

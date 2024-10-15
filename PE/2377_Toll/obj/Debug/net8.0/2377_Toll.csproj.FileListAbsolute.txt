@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\bin\Debug\net8.0\2377_Toll.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\bin\Debug\net8.0\2377_Toll.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\bin\Debug\net8.0\2377_Toll.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\bin\Debug\net8.0\2377_Toll.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\bin\Debug\net8.0\2377_Toll.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\refint\2377_Toll.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\2377_Toll.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\2377_Toll\obj\Debug\net8.0\ref\2377_Toll.dll

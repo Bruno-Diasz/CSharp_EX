@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\bin\Debug\net8.0\1151_Easy_Fibonacci.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\bin\Debug\net8.0\1151_Easy_Fibonacci.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\bin\Debug\net8.0\1151_Easy_Fibonacci.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\bin\Debug\net8.0\1151_Easy_Fibonacci.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\bin\Debug\net8.0\1151_Easy_Fibonacci.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\refint\1151_Easy_Fibonacci.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\1151_Easy_Fibonacci.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1151_Easy_Fibonacci\obj\Debug\net8.0\ref\1151_Easy_Fibonacci.dll

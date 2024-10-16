@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\bin\Debug\net8.0\1117_ScoreValidation.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\refint\1117_ScoreValidation.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\1117_ScoreValidation.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1117_ScoreValidation\obj\Debug\net8.0\ref\1117_ScoreValidation.dll

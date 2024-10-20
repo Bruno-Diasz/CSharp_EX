@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\bin\Debug\net8.0\1247_CoastGuard.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\bin\Debug\net8.0\1247_CoastGuard.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\bin\Debug\net8.0\1247_CoastGuard.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\bin\Debug\net8.0\1247_CoastGuard.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\bin\Debug\net8.0\1247_CoastGuard.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\refint\1247_CoastGuard.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\1247_CoastGuard.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1247_CoastGuard\obj\Debug\net8.0\ref\1247_CoastGuard.dll

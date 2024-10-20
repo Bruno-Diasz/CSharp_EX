@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\bin\Debug\net8.0\1221_FastPrime.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\bin\Debug\net8.0\1221_FastPrime.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\bin\Debug\net8.0\1221_FastPrime.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\bin\Debug\net8.0\1221_FastPrime.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\bin\Debug\net8.0\1221_FastPrime.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\refint\1221_FastPrime.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\1221_FastPrime.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1221_FastPrime\obj\Debug\net8.0\ref\1221_FastPrime.dll

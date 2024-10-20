@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\bin\Debug\net8.0\1140_FlowerFlourishFrance.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\bin\Debug\net8.0\1140_FlowerFlourishFrance.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\bin\Debug\net8.0\1140_FlowerFlourishFrance.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\bin\Debug\net8.0\1140_FlowerFlourishFrance.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\bin\Debug\net8.0\1140_FlowerFlourishFrance.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\refint\1140_FlowerFlourishFrance.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\1140_FlowerFlourishFrance.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\PE\1140_FlowerFlourishFrance\obj\Debug\net8.0\ref\1140_FlowerFlourishFrance.dll

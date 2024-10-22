@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\bin\Debug\net8.0\L1_Circulo.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\bin\Debug\net8.0\L1_Circulo.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\bin\Debug\net8.0\L1_Circulo.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\bin\Debug\net8.0\L1_Circulo.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\bin\Debug\net8.0\L1_Circulo.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\refint\L1_Circulo.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\L1_Circulo.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Circulo\obj\Debug\net8.0\ref\L1_Circulo.dll

@@ -1,0 +1,15 @@
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\bin\Debug\net8.0\L1_Viagem.exe
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\bin\Debug\net8.0\L1_Viagem.deps.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\bin\Debug\net8.0\L1_Viagem.runtimeconfig.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\bin\Debug\net8.0\L1_Viagem.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\bin\Debug\net8.0\L1_Viagem.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.AssemblyInfoInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.AssemblyInfo.cs
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.sourcelink.json
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\refint\L1_Viagem.dll
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.pdb
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\L1_Viagem.genruntimeconfig.cache
+C:\Users\Bruno Dias\Desktop\POO\CSharp_EX\POO\L1_Viagem\obj\Debug\net8.0\ref\L1_Viagem.dll

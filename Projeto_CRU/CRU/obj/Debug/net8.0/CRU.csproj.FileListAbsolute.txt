@@ -1,0 +1,15 @@
+/workspaces/CSharp_EX/Projeto_CRU/CRU/bin/Debug/net8.0/CRU
+/workspaces/CSharp_EX/Projeto_CRU/CRU/bin/Debug/net8.0/CRU.deps.json
+/workspaces/CSharp_EX/Projeto_CRU/CRU/bin/Debug/net8.0/CRU.runtimeconfig.json
+/workspaces/CSharp_EX/Projeto_CRU/CRU/bin/Debug/net8.0/CRU.dll
+/workspaces/CSharp_EX/Projeto_CRU/CRU/bin/Debug/net8.0/CRU.pdb
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.AssemblyInfoInputs.cache
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.AssemblyInfo.cs
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.csproj.CoreCompileInputs.cache
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.sourcelink.json
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.dll
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/refint/CRU.dll
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.pdb
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/CRU.genruntimeconfig.cache
+/workspaces/CSharp_EX/Projeto_CRU/CRU/obj/Debug/net8.0/ref/CRU.dll
